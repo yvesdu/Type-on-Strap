@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: "/Type-on-Strap"
-url: "https://sylhare.github.io"
+url: "https://yvesdu.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
@@ -18,7 +18,7 @@ theme_settings:
      <p>Remove all header text in <code>_config.yml</code> to disable this feature.</p>
   header_text_feature_image: assets/img/pexels/triangular.jpeg
   footer_text: >
-   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
+   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/yvesdu/Type-on-Strap">Type on Strap</a>
 
   # Icons
   rss: false
